@@ -5,6 +5,7 @@ The system is built with the aim of summarising a PDF file uploaded by the user.
 
 ## Preview
 To be able to see a preview of this system, please see the following link: https://pdf-summarizer.streamlit.app/, or check out the preview below.
+
 <img src="preview.jpg" width="100%" />
 
 ## How to Use
